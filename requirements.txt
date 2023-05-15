@@ -1,0 +1,10 @@
+dill
+dnspython
+imblearn
+pymongo[srv]
+pandas
+xgboost
+numpy
+scikit-learn
+apache-airflow
+-e .
